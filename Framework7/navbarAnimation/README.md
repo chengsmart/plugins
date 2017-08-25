@@ -5,9 +5,9 @@
 * 引入framework7.navbarAnimation.js
 * 在初始化Framework7的时候，配置插件参数，例如
  
-     var myApp = new Framework7 ({
+     `var myApp = new Framework7 ({
          navbarAnimation:true
-     })
+     })`
 
 * 在 `.page` 元素上，添加class `tmod-transparent-navbar`
 * 例如 `<div class="page toolbar-fixed tmod-transparent-navbar" data-page="p-index">`
